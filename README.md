@@ -5,3 +5,7 @@
 - 📫 How to reach me ...
 PKG install termux
 run
+$ sudo snap install hello-world
+hello-world 6.3 from Canonical✓ installed
+$ hello-world
+Hello World!
