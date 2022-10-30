@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 PKG install termux
-run
-$ sudo snap install hello-world
-hello-world 6.3 from Canonical✓ installed
-$ hello-world
-Hello World!
+run 
+1(python.py)
+2pkg create a turmux
+Name=rk.python.py
+P
